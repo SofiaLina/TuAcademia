@@ -1,0 +1,4 @@
+verde : 50b68c
+azul : 08405c
+amarillo: f7a41a
+coral: ec6365
